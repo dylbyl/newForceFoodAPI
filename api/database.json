@@ -1,0 +1,68 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode" : "8076809545846"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode" : "5021047106031"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode" : "5021047104419"
+      
+    },
+    {
+      "name": "Godzilla Roll",
+      "category": "sushi",
+      "ethnicity": "japanese",
+      "id": 4,
+      "barcode" : "20852030"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian",
+      "barcode" : "5000169116562"
+    },
+    {
+      "name": "Ravioli Cheesi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "id": 6,
+      "barcode" : "3038352880305"
+    },
+    {
+      "name": "Ramen",
+      "category": "noodle soup",
+      "ethnicity": "japanese",
+      "barcode" : "8801073113428",
+      "id": 7
+    },
+    {
+      "name": "Buffalo chicken wrap",
+      "category": "wrap",
+      "ethnicity": "americana",
+      "barcode" : "0030223010449",
+      "id": 8
+    },
+    {
+      "name": "macaroni and cheese",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode" : "0021000010875",
+      "id": 9
+    }
+  ]
+}
